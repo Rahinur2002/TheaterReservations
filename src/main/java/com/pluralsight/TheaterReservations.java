@@ -34,6 +34,6 @@ public class TheaterReservations {
         }
 
 
-
+        scanner.close();
     }
 }
